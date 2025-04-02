@@ -1,4 +1,4 @@
-# Projeto Laravel - Gerenciamento de Funcionários
+# Desafio - CRUD de Funcionáriso com Autenticação
 
 Este é um sistema web desenvolvido em **Laravel** para o gerenciamento de funcionários. O projeto utiliza **Laravel Breeze** para autenticação, **SQLite** como banco de dados e **jQuery Mask** para mascarar campos de entrada.
 
