@@ -73,6 +73,7 @@ npm run dev
 ```bash
 php artisan serve
 ```
+Usar um terminal para cada comando (Passo 7 e 8)
 
 Acesse o projeto em: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
